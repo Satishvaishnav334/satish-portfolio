@@ -1,5 +1,6 @@
 # React + Vite
-
+create a basic functionality to update a number 
+using state management
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
